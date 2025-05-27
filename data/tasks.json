@@ -1,1 +1,18 @@
-
+[
+  {
+    "id": "abc123",
+    "title": "مراجعة الدروس",
+    "description": "مادة الرياضيات + الحاسوب",
+    "category": "دراسة",
+    "completed": false,
+    "dateCreated": "2025-05-27T00:00:00Z"
+  },
+  {
+    "id": "def456",
+    "title": "شراء مستلزمات",
+    "description": "أقلام + دفتر",
+    "category": "مشتريات",
+    "completed": true,
+    "dateCreated": "2025-05-27T00:00:00Z"
+  }
+]
